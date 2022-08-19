@@ -14,7 +14,7 @@ type Baddie interface {
 func main() {
 	baddies := []Baddie{
 		monster.Dragon{
-			Name:    "New Requirements Dragon",
+			Name:    "New requirements Dragon",
 			Message: "This is my home now! You all must go live in the clouds before sundown.",
 		},
 		monster.Witch{
