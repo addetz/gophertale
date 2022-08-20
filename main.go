@@ -19,7 +19,7 @@ func main() {
 		},
 		monster.Witch{
 			Name:    "High latency witch",
-			Message: "I curse you with high latency for all your web traffic!",
+			Message: "I curse you with high latency for all your web requests!",
 		},
 	}
 	fmt.Println("Once upon a time there was a little codebase who lived in the village server.")
