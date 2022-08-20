@@ -1,5 +1,7 @@
 # gophertale
-A repository for the #TWOSS Gopher Fairytale 
+A repository for the `#TWOSS` Gopher Fairytale.
+
+Solution is on branch `written-fairytale`.
 
 ## Demonstrated topics
 1. Main function 
