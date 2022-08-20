@@ -22,7 +22,7 @@ func main() {
 			Message: "I curse you with high latency for all your web requests!",
 		},
 	}
-	fmt.Println("Once upon a time there was a little codebase who lived in the village server.")
+	fmt.Println("Once upon a time, there was a little codebase who lived in the village server.")
 	fmt.Println("One day, unexpectedly, a ghastly monster darkened the village sky.")
 
 	for _, b := range baddies {
