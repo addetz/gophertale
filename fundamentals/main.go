@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/addetz/gophertale/hero"
-	"github.com/addetz/gophertale/monster"
+	"github.com/addetz/gophertale/fundamentals/hero"
+	"github.com/addetz/gophertale/fundamentals/monster"
 )
 
 type Baddie interface {

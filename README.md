@@ -9,6 +9,7 @@ A repository for the `#TWOSS` Gopher Fairytale.
 1. Structs 
 1. Interfaces
 1. Slices and loops
+1. Testing & TDD
 
 ## Setup 
 1. [Install Go](https://go.dev/doc/install) 
